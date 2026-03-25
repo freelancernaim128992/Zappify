@@ -8,7 +8,7 @@ const Navbar = () => {
     const menuItems = (
         <>
             <li><NavLink className="font-semibold" to="/">Home</NavLink></li>
-            <li><NavLink className="font-semibold" to="/apps">Apps</NavLink></li>
+            <li><NavLink className="font-semibold" to="/allApps">Apps</NavLink></li>
             <li><NavLink className="font-semibold" to="/installation">Installation</NavLink></li>
         </>
     );

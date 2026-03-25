@@ -1,5 +1,6 @@
 import React, { use } from 'react';
-import TrendingAppCard from '../TrendingAppCard/TrendingAppCard';
+import AppCard from '../AppCard/AppCard';
+import { Link } from 'react-router';
 
 const TrendingApps = ({trendingAppsDataPromise}) => {
     const trendingAppsData = use(trendingAppsDataPromise);
@@ -13,11 +14,11 @@ const TrendingApps = ({trendingAppsDataPromise}) => {
             </div>
             <div className='grid grid-cols-4 gap-5 mt-10'>
                 {
-                    slicedTrendingAppsData.map(trendingApp => <TrendingAppCard key={trendingApp.id} trendingApp={trendingApp} />)
+                    slicedTrendingAppsData.map(appData => <AppCard key={appData.id} appData={appData} />)
                 }
             </div>
             <div className='flex justify-center pt-15 pb-20'>
-                <button className='btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white px-8 py-5'>Show All</button>
+                <Link to="allApps"><button className='btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white px-8 py-5'>Show All</button></Link>
             </div>
         </section>
     );

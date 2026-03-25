@@ -1,8 +1,8 @@
 import { GoDownload } from "react-icons/go";
 import { FaStar } from "react-icons/fa6";
 
-const TrendingAppCard = ({ trendingApp }) => {
-    const { title, image, downloads, ratingAvg } = trendingApp;
+const AppCard = ({ appData }) => {
+    const { title, image, downloads, ratingAvg } = appData;
     return (
         <div className="card bg-white">
             <div className='p-3'>
@@ -24,4 +24,4 @@ const TrendingAppCard = ({ trendingApp }) => {
     );
 };
 
-export default TrendingAppCard;
+export default AppCard;
