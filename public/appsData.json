@@ -1,0 +1,662 @@
+[
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5969/5969059.png",
+    "title": "PhotoMaster: AI Editor",
+    "companyName": "PixelForge Studios",
+    "id": 1,
+    "description": "Transform your ordinary photos into stunning masterpieces with PhotoMaster. This isn't just another filter app; it's a complete creative suite powered by advanced artificial intelligence.\n\nRemove unwanted objects from your pictures with a single tap using our intelligent 'Magic Eraser' tool. Our AI can also enhance low-light photos, bringing out details you never knew were there. For portrait shots, the advanced skin-smoothing and bokeh effect creator gives you professional-looking results instantly.\n\nBeyond editing, PhotoMaster offers hundreds of customizable templates for social media stories, posters, and invitations. The app includes a full suite of manual controls for exposure, contrast, and color grading, giving you the power of desktop software in your pocket. Whether you're a casual snapper or a budding professional, PhotoMaster provides the tools to make your photos stand out.\n\nWe regularly update our library with new artistic filters, frames, and text styles, so your creative options are always expanding. Join millions of creators who have already discovered the magic of AI-powered photo editing.",
+    "size": 185,
+    "reviews": 45231,
+    "ratingAvg": 4.7,
+    "downloads": 5200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1250
+      },
+      {
+        "name": "2 star",
+        "count": 890
+      },
+      {
+        "name": "3 star",
+        "count": 2340
+      },
+      {
+        "name": "4 star",
+        "count": 7850
+      },
+      {
+        "name": "5 star",
+        "count": 32901
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5969/5969029.png",
+    "title": "MusicBeats: Stream & Play",
+    "companyName": "AudioStream Global",
+    "id": 2,
+    "description": "MusicBeats offers a revolutionary way to experience your favorite music, podcasts, and live radio stations, all in one seamless app. Our library boasts over 90 million songs in high-definition audio, from chart-topping hits to deep indie cuts.\n\nDiscover new artists with our AI-driven recommendation engine that learns your taste and creates personalized playlists you'll love. The 'Mood Mixer' feature lets you generate a playlist based on your current activity or feeling, whether you're working out, relaxing, or throwing a party.\n\nFor audiophiles, we offer exclusive support for high-fidelity sound and immersive 360-degree audio. The app also includes smart lyrics integration, so you can sing along to your favorite tracks. Offline mode allows you to download songs and listen without an internet connection, perfect for commutes or travel.\n\nWith a clean, intuitive interface and seamless casting to smart speakers and TVs, MusicBeats is the ultimate companion for every moment of your day. Start your free trial today and immerse yourself in a world of sound.",
+    "size": 210,
+    "reviews": 123456,
+    "ratingAvg": 4.8,
+    "downloads": 15000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2100
+      },
+      {
+        "name": "2 star",
+        "count": 1500
+      },
+      {
+        "name": "3 star",
+        "count": 4500
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 90356
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5969/5969025.png",
+    "title": "QuickBooks: Finance Manager",
+    "companyName": "Intuit Inc.",
+    "id": 3,
+    "description": "Take control of your personal finances with QuickBooks, the most trusted name in accounting. This app simplifies budgeting, tracks your spending, and helps you achieve your financial goals with ease and security.\n\nConnect all your bank accounts, credit cards, and investment portfolios in one place for a real-time view of your net worth. Our smart categorization engine automatically sorts your transactions, making it easy to see where your money goes each month. Set up personalized budgets for categories like dining, shopping, and utilities, and receive alerts when you're close to your limit.\n\nQuickBooks also includes powerful tools for tracking bills, managing subscriptions, and planning for major life events like buying a home or saving for retirement. The app provides clear, visual reports and charts to help you understand your financial health at a glance. With bank-grade encryption and biometric login, your sensitive data is always secure.\n\nWhether you're a student managing a tight budget or a professional planning for the future, QuickBooks gives you the clarity and confidence to make smarter financial decisions.",
+    "size": 125,
+    "reviews": 87654,
+    "ratingAvg": 4.5,
+    "downloads": 8200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3200
+      },
+      {
+        "name": "2 star",
+        "count": 2100
+      },
+      {
+        "name": "3 star",
+        "count": 6700
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 60654
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5970/5970006.png",
+    "title": "FitTrack: Workout & Diet",
+    "companyName": "HealthCore Labs",
+    "id": 4,
+    "description": "Achieve your fitness goals with FitTrack, your all-in-one companion for health and wellness. Whether you want to lose weight, build muscle, or just live a healthier lifestyle, our app provides the personalized guidance and tools you need to succeed.\n\nOur AI-powered workout generator creates custom exercise routines based on your fitness level, available equipment, and goals. From high-intensity interval training (HIIT) to yoga and strength training, we have a workout for everyone, complete with video instructions to ensure proper form. The integrated food diary and calorie tracker feature a massive database of foods, allowing you to log meals in seconds with a barcode scanner.\n\nFitTrack also syncs with your wearable devices to monitor your daily activity, heart rate, and sleep patterns. Our detailed analytics show your progress over time, keeping you motivated. Join our community challenges to connect with friends and stay accountable. With FitTrack, you're not just tracking data; you're building a healthier, happier you.",
+    "size": 245,
+    "reviews": 22345,
+    "ratingAvg": 4.6,
+    "downloads": 3100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 780
+      },
+      {
+        "name": "2 star",
+        "count": 650
+      },
+      {
+        "name": "3 star",
+        "count": 1950
+      },
+      {
+        "name": "4 star",
+        "count": 4500
+      },
+      {
+        "name": "5 star",
+        "count": 14465
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/6062/6062646.png",
+    "title": "TravelMate: Flight & Hotel",
+    "companyName": "GlobeTrotter Tech",
+    "id": 5,
+    "description": "Plan your next adventure with TravelMate, the ultimate travel booking app that combines smart technology with unbeatable deals. From flights and hotels to rental cars and local experiences, we make travel planning effortless and affordable.\n\nSearch and compare millions of flight options from airlines worldwide to find the best prices and itineraries. Our 'Price Alert' feature notifies you when fares drop, so you always book at the right time. For accommodations, choose from a wide selection of hotels, hostels, and vacation rentals, with detailed reviews and high-quality photos to help you decide.\n\nThe app includes a unique 'Trip Planner' that organizes your entire itinerary in one place, including bookings, maps, and must-see attractions. Access offline maps and travel guides to navigate new cities without roaming charges. Our 24/7 customer support team is always ready to assist with any travel changes or emergencies.\n\nWhether it's a weekend getaway or a round-the-world journey, TravelMate empowers you to explore the world with confidence and ease.",
+    "size": 98,
+    "reviews": 98765,
+    "ratingAvg": 4.4,
+    "downloads": 4500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3100
+      },
+      {
+        "name": "2 star",
+        "count": 2400
+      },
+      {
+        "name": "3 star",
+        "count": 8900
+      },
+      {
+        "name": "4 star",
+        "count": 19500
+      },
+      {
+        "name": "5 star",
+        "count": 64865
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+    "title": "SecureVault: Password Manager",
+    "companyName": "Cypher Security",
+    "id": 6,
+    "description": "Stop struggling to remember dozens of passwords and start using SecureVault, the password manager that puts your digital security first. With advanced encryption and a simple interface, you can manage all your logins, payment info, and secure notes in one highly protected place.\n\nSecureVault generates strong, unique passwords for every account and autofills them across apps and websites, so you never have to type a password again. Your data is protected by AES-256 encryption, the same standard used by banks and governments. You are the only one with the master key, ensuring complete privacy.\n\nBeyond passwords, you can securely store credit card details, Wi-Fi passwords, and sensitive documents. The app also features a digital inheritor option, allowing you to grant trusted contacts access to your vault in case of an emergency. With support for biometric login (Face ID and fingerprint), accessing your vault is fast and secure.\n\nJoin millions who have made the switch to a safer, password-free life. Your security is our only priority.",
+    "size": 68,
+    "reviews": 34321,
+    "ratingAvg": 4.9,
+    "downloads": 2800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 210
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 540
+      },
+      {
+        "name": "4 star",
+        "count": 4200
+      },
+      {
+        "name": "5 star",
+        "count": 29191
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "title": "NewsWave: World News",
+    "companyName": "InfoStream Media",
+    "id": 7,
+    "description": "Stay informed with NewsWave, the personalized news aggregator that brings you the most important stories from trusted sources around the world. Our AI curates a feed tailored to your interests, ensuring you never miss a story that matters to you.\n\nGet breaking news alerts instantly from over 5,000 reputable publishers. The app covers a wide range of topics including politics, technology, business, science, sports, and entertainment. The 'Balanced View' feature presents multiple perspectives on controversial topics, helping you form a well-rounded understanding of complex issues.\n\nFor a more immersive experience, our built-in text-to-speech reader lets you listen to articles on the go. You can also save articles for later reading and sync your reading list across all your devices. With a clean, ad-free reading mode, you can focus on the news without distractions.\n\nNewsWave is more than just an app; it's your gateway to a more informed and connected world. Download it today and start exploring.",
+    "size": 112,
+    "reviews": 56789,
+    "ratingAvg": 4.3,
+    "downloads": 6900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4500
+      },
+      {
+        "name": "2 star",
+        "count": 3200
+      },
+      {
+        "name": "3 star",
+        "count": 9800
+      },
+      {
+        "name": "4 star",
+        "count": 14200
+      },
+      {
+        "name": "5 star",
+        "count": 25089
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2936/2936886.png",
+    "title": "Learnify: Online Courses",
+    "companyName": "EduTech Solutions",
+    "id": 8,
+    "description": "Unlock your potential with Learnify, the online learning platform that makes education accessible, engaging, and effective. We offer thousands of video courses taught by expert instructors in fields like programming, design, business, marketing, and personal development.\n\nLearn at your own pace with bite-sized video lessons and interactive quizzes that reinforce key concepts. Our project-based curriculum allows you to build a portfolio of real-world projects as you learn, showcasing your skills to future employers. Whether you're looking to start a new career, earn a promotion, or explore a hobby, you'll find a course tailored to your goals.\n\nThe app includes downloadable course materials, offline viewing, and a community forum where you can connect with fellow learners and instructors. Upon completion, you'll earn a shareable certificate to highlight your achievements. With new courses added weekly, your learning journey never has to end.\n\nJoin the millions of students who have already transformed their lives with Learnify. The future of education is here.",
+    "size": 150,
+    "reviews": 65432,
+    "ratingAvg": 4.6,
+    "downloads": 4700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1100
+      },
+      {
+        "name": "2 star",
+        "count": 950
+      },
+      {
+        "name": "3 star",
+        "count": 2850
+      },
+      {
+        "name": "4 star",
+        "count": 11500
+      },
+      {
+        "name": "5 star",
+        "count": 49032
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/6073/6073873.png",
+    "title": "FoodieDash: Food Delivery",
+    "companyName": "QuickEats Inc.",
+    "id": 9,
+    "description": "Satisfy your cravings with FoodieDash, the food delivery app that brings your favorite local restaurants right to your door. With a vast selection of cuisines and the fastest delivery in town, getting a delicious meal has never been easier.\n\nBrowse through thousands of restaurants and discover new dishes with our personalized recommendations. Use the 'Order Again' feature to reorder your favorites in just two taps. Our real-time GPS tracking lets you follow your order from the kitchen to your doorstep, so you always know when to expect your food.\n\nWe offer exclusive deals, discounts, and a loyalty program that rewards you with points on every order, redeemable for free meals. For groups, the 'Group Order' feature allows multiple people to add items to a single cart, making office lunches or family dinners a breeze.\n\nFoodieDash is committed to supporting local businesses and ensuring a seamless, reliable delivery experience. Open the app, order what you love, and leave the rest to us.",
+    "size": 132,
+    "reviews": 87654,
+    "ratingAvg": 4.2,
+    "downloads": 11000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 8600
+      },
+      {
+        "name": "2 star",
+        "count": 5400
+      },
+      {
+        "name": "3 star",
+        "count": 12700
+      },
+      {
+        "name": "4 star",
+        "count": 23400
+      },
+      {
+        "name": "5 star",
+        "count": 37554
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
+    "title": "MindSpace: Meditation & Sleep",
+    "companyName": "CalmTech",
+    "id": 10,
+    "description": "Find your inner peace with MindSpace, the leading app for meditation, sleep, and mental wellness. In today's fast-paced world, it's more important than ever to take a moment for yourself. MindSpace provides the tools to manage stress, improve focus, and sleep better.\n\nOur library features hundreds of guided meditations for all levels, from beginners to advanced practitioners. Topics include stress relief, anxiety management, gratitude, and self-compassion. For sleep, we offer a unique collection of sleep stories narrated by calming voices, ambient soundscapes, and wind-down meditations to help you drift off effortlessly.\n\nThe app also includes breathing exercises that can be done in minutes to calm your nervous system, and focus music to boost concentration during work or study. Track your progress with our mindfulness streak counter and see how a daily practice can transform your mental health.\n\nMillions have found solace in MindSpace. Start your journey to a calmer, more balanced life today.",
+    "size": 175,
+    "reviews": 112233,
+    "ratingAvg": 4.8,
+    "downloads": 8900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1800
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 3800
+      },
+      {
+        "name": "4 star",
+        "count": 19000
+      },
+      {
+        "name": "5 star",
+        "count": 86433
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888857.png",
+    "title": "CloudBox: File Storage",
+    "companyName": "Nimbus Systems",
+    "id": 11,
+    "description": "Keep your files safe, organized, and accessible from anywhere with CloudBox. Our secure cloud storage solution allows you to back up photos, videos, documents, and more, freeing up space on your device while ensuring your data is never lost.\n\nEnjoy 10 GB of free storage to start, with affordable plans for expanding your space. Upload files automatically with our camera backup feature, or share large files with anyone via a secure, time-limited link. CloudBox integrates seamlessly with your device, appearing as a folder on your system for easy drag-and-drop functionality.\n\nOur advanced search makes finding old files a breeze, even searching text inside images and PDFs. We use end-to-end encryption to protect your data during transfer and at rest, so you can trust that your private information stays private.\n\nAccess your files from any smartphone, tablet, or computer. CloudBox is the reliable, simple, and secure way to manage your digital life in the cloud.",
+    "size": 95,
+    "reviews": 45432,
+    "ratingAvg": 4.5,
+    "downloads": 5300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 1500
+      },
+      {
+        "name": "3 star",
+        "count": 4100
+      },
+      {
+        "name": "4 star",
+        "count": 8800
+      },
+      {
+        "name": "5 star",
+        "count": 29032
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2917/2917999.png",
+    "title": "GameOn: Social Gaming",
+    "companyName": "PlayHub Interactive",
+    "id": 12,
+    "description": "GameOn is the ultimate social gaming platform where you can play hundreds of casual and competitive games with friends and players from around the globe. From classic card games to fast-paced action and brain-teasing puzzles, there's always a game to match your mood.\n\nOur platform features live multiplayer modes, allowing you to challenge your friends or be matched with players of a similar skill level. Voice and text chat are integrated, so you can strategize and celebrate victories together. The 'Clans' feature lets you create or join a community, participate in clan wars, and earn exclusive rewards.\n\nWe add new games weekly, ensuring the library stays fresh and exciting. Compete on global leaderboards, earn achievements, and collect unique items to customize your profile. The app is optimized for smooth performance on a wide range of devices.\n\nWhether you have five minutes or five hours, GameOn delivers endless entertainment and a vibrant community of gamers. Join the fun and see why millions are playing every day.",
+    "size": 310,
+    "reviews": 78901,
+    "ratingAvg": 4.1,
+    "downloads": 12500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 9800
+      },
+      {
+        "name": "2 star",
+        "count": 6700
+      },
+      {
+        "name": "3 star",
+        "count": 14200
+      },
+      {
+        "name": "4 star",
+        "count": 21500
+      },
+      {
+        "name": "5 star",
+        "count": 26701
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5970/5970096.png",
+    "title": "DriveSafe: Car Assistant",
+    "companyName": "AutoMate Technologies",
+    "id": 13,
+    "description": "DriveSafe is the essential companion for every driver, transforming your smartphone into a powerful car assistant. Designed to minimize distractions and enhance safety, this app offers a clean, voice-controlled interface for navigation, music, and calls while on the road.\n\nThe 'Auto-Launch' feature detects when you're driving and automatically starts the app, providing a simple dashboard with large buttons and voice commands. Get real-time traffic updates, speed camera alerts, and find the cheapest nearby gas stations. The app also tracks your driving habits, providing a safety score and tips to improve your driving style and potentially lower your insurance premiums.\n\nIn case of an accident, the emergency crash detection feature can automatically alert your chosen contacts with your precise location. For long journeys, you can log your trips and calculate fuel efficiency. DriveSafe supports Android Auto and Apple CarPlay for a seamless in-car experience.\n\nDriveSafe is more than just an app; it's your co-pilot for a safer, smarter journey.",
+    "size": 78,
+    "reviews": 32109,
+    "ratingAvg": 4.4,
+    "downloads": 2100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200
+      },
+      {
+        "name": "2 star",
+        "count": 950
+      },
+      {
+        "name": "3 star",
+        "count": 2900
+      },
+      {
+        "name": "4 star",
+        "count": 6200
+      },
+      {
+        "name": "5 star",
+        "count": 20859
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/4138/4138124.png",
+    "title": "BabyCare: Newborn Tracker",
+    "companyName": "Parenting Pal",
+    "id": 14,
+    "description": "Navigating the first year of parenthood is a beautiful but challenging journey. BabyCare is the all-in-one app designed to simplify newborn care, helping you track feeding, sleep, diaper changes, and developmental milestones with ease.\n\nThe intuitive timer makes it simple to log breastfeeding sessions (including which side), bottle feeds, and pumping. Track your baby's sleep patterns to identify natural rhythms and predict the next nap. The diaper log lets you monitor wet and dirty diapers, a key indicator of your baby's health. All this data can be viewed in clear, shareable charts, which are incredibly useful for pediatrician appointments.\n\nBeyond tracking, BabyCare offers a wealth of resources including a milestone tracker, a growth percentile calculator, and a library of articles from parenting experts on topics like soothing, weaning, and sleep training. The app also allows for syncing between partners, so both parents can stay updated on their baby's day.\n\nGet peace of mind during those hectic early months. BabyCare is your trusted companion, every step of the way.",
+    "size": 88,
+    "reviews": 17890,
+    "ratingAvg": 4.8,
+    "downloads": 950000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 250
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 550
+      },
+      {
+        "name": "4 star",
+        "count": 3200
+      },
+      {
+        "name": "5 star",
+        "count": 13710
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5969/5969076.png",
+    "title": "WeatherLive: Forecast Radar",
+    "companyName": "Atmos Labs",
+    "id": 15,
+    "description": "Never be caught in the rain again with WeatherLive, the most accurate and visually stunning weather app available. We combine data from multiple professional meteorological sources to provide hyper-local forecasts that you can rely on for every outdoor activity.\n\nThe app features an interactive radar map with high-resolution animations for rain, snow, and temperature. You can track storms in real-time, with severe weather alerts that notify you of impending dangers like hurricanes, tornadoes, or flash floods. Our hourly and 10-day forecasts provide detailed breakdowns of temperature, wind speed, humidity, and UV index.\n\nWhat sets WeatherLive apart is its beautiful design. Each weather condition is accompanied by a dynamic, cinematic background that matches the sky outside. From the gentle animation of a sunrise to the dramatic swirl of a storm, using the app is a visual delight.\n\nWhether you're a professional pilot, a weekend hiker, or just planning your commute, WeatherLive gives you the information you need to make informed decisions.",
+    "size": 145,
+    "reviews": 51234,
+    "ratingAvg": 4.7,
+    "downloads": 7300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 850
+      },
+      {
+        "name": "2 star",
+        "count": 650
+      },
+      {
+        "name": "3 star",
+        "count": 2100
+      },
+      {
+        "name": "4 star",
+        "count": 8900
+      },
+      {
+        "name": "5 star",
+        "count": 38734
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1061/1061125.png",
+    "title": "TaskFlow: Planner & To-Do",
+    "companyName": "Productivity Hub",
+    "id": 16,
+    "description": "Achieve more every day with TaskFlow, the ultimate planner and to-do list app that combines intuitive design with powerful features. Whether you're managing a complex work project or organizing your personal life, TaskFlow helps you capture, organize, and accomplish your goals.\n\nCreate projects and break them down into manageable tasks with subtasks, due dates, and priorities. The 'My Day' feature helps you focus on what's most important right now, pulling tasks from all your projects. Our flexible views include a simple list, a kanban board, and a calendar, allowing you to plan your week and see your schedule at a glance.\n\nTaskFlow integrates with your device's calendar and supports cross-device syncing, so your to-do list is always with you. Use tags, filters, and custom sections to organize your tasks in a way that makes sense for your workflow. With smart reminders, you'll never miss a deadline again.\n\nJoin millions of productive people who have found clarity and focus with TaskFlow. Start organizing your life today.",
+    "size": 72,
+    "reviews": 43210,
+    "ratingAvg": 4.5,
+    "downloads": 3500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500
+      },
+      {
+        "name": "2 star",
+        "count": 1100
+      },
+      {
+        "name": "3 star",
+        "count": 3500
+      },
+      {
+        "name": "4 star",
+        "count": 8600
+      },
+      {
+        "name": "5 star",
+        "count": 28510
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/545/545322.png",
+    "title": "ShopEasy: Online Shopping",
+    "companyName": "RetailNet Global",
+    "id": 17,
+    "description": "Discover millions of products at the best prices with ShopEasy, the online shopping app that brings the world's marketplaces to your fingertips. From fashion and electronics to home decor and pet supplies, we have everything you need, delivered right to your door.\n\nOur powerful search and smart filters make it easy to find exactly what you're looking for. Browse thousands of seller reviews and high-quality product images to shop with confidence. We offer a wide range of secure payment options, including digital wallets and buy-now-pay-later plans, making purchases convenient and flexible.\n\nEnjoy exclusive app-only deals, flash sales, and free shipping on millions of items. The 'Wishlist' feature lets you save items you love, and we'll notify you when the price drops. Our easy returns policy ensures that if you're not satisfied, returning an item is simple and free.\n\nShopEasy is more than just an app; it's your personal shopping assistant, available 24/7. Download it now and start exploring a world of products.",
+    "size": 118,
+    "reviews": 78900,
+    "ratingAvg": 4.0,
+    "downloads": 18500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 12500
+      },
+      {
+        "name": "2 star",
+        "count": 8800
+      },
+      {
+        "name": "3 star",
+        "count": 15600
+      },
+      {
+        "name": "4 star",
+        "count": 21000
+      },
+      {
+        "name": "5 star",
+        "count": 21000
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5970/5970117.png",
+    "title": "LanguageMentor: Learn New Languages",
+    "companyName": "LingoSoft",
+    "id": 18,
+    "description": "Master a new language with LanguageMentor, the most effective and engaging language learning app on the market. Our scientifically proven method combines interactive lessons with real-world practice to get you speaking with confidence in no time.\n\nChoose from over 30 languages, including Spanish, French, Japanese, Korean, and English. Our structured curriculum covers all core skills: reading, writing, listening, and speaking. The app uses speech recognition technology to help you perfect your pronunciation, providing instant feedback on your accent.\n\nLearn through short, gamified lessons that fit into your busy schedule. The 'Vocabulary Builder' uses spaced repetition to ensure you remember words long-term. For advanced learners, we offer immersive stories and podcasts in your target language, as well as the ability to connect with native speakers for live practice sessions.\n\nWhether you're learning for travel, work, or personal enrichment, LanguageMentor makes the journey fun, effective, and accessible. Start your language adventure today.",
+    "size": 168,
+    "reviews": 65498,
+    "ratingAvg": 4.7,
+    "downloads": 6100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1100
+      },
+      {
+        "name": "2 star",
+        "count": 890
+      },
+      {
+        "name": "3 star",
+        "count": 2700
+      },
+      {
+        "name": "4 star",
+        "count": 11900
+      },
+      {
+        "name": "5 star",
+        "count": 48908
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1706/1706077.png",
+    "title": "HomeHub: Smart Home Control",
+    "companyName": "IoT Connect",
+    "id": 19,
+    "description": "Transform your living space with HomeHub, the universal smart home controller that brings all your devices together in one simple, intuitive app. Control lights, thermostats, locks, cameras, and more from a single dashboard, whether you're at home or anywhere in the world.\n\nHomeHub is compatible with thousands of smart devices from leading brands, eliminating the need for multiple apps. Create custom scenes and automations with a single tap, such as a 'Good Morning' scene that turns on the lights, starts the coffee maker, and adjusts the thermostat. Use geofencing to trigger actions when you leave or arrive home, like automatically locking the doors and turning off the lights.\n\nThe app also provides a central hub for monitoring your home security. View live feeds from your security cameras, receive alerts for motion or door activity, and even communicate through smart doorbells. Voice control via Alexa and Google Assistant is built-in for hands-free convenience.\n\nMake your home smarter, safer, and more efficient with HomeHub. The future of home automation is here.",
+    "size": 105,
+    "reviews": 23456,
+    "ratingAvg": 4.3,
+    "downloads": 1200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1300
+      },
+      {
+        "name": "2 star",
+        "count": 1100
+      },
+      {
+        "name": "3 star",
+        "count": 3200
+      },
+      {
+        "name": "4 star",
+        "count": 5600
+      },
+      {
+        "name": "5 star",
+        "count": 12256
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5969/5969141.png",
+    "title": "StockPro: Market Tracker",
+    "companyName": "FinTech Analytics",
+    "id": 20,
+    "description": "Master the markets with StockPro, the comprehensive investing app that provides real-time data, advanced charting tools, and in-depth analysis for traders and investors of all levels. Whether you're a beginner or a seasoned pro, StockPro gives you the edge you need to make informed decisions.\n\nGet live streaming quotes for stocks, ETFs, options, and cryptocurrencies from all major exchanges. Our interactive charts are packed with over 100 technical indicators, allowing you to perform detailed technical analysis on the go. The app also delivers breaking financial news and analyst ratings from top sources, helping you stay ahead of market-moving events.\n\nManage your entire investment portfolio in one place. Link your brokerage accounts to track your performance, dividends, and asset allocation in real-time. For new investors, our 'Paper Trading' feature allows you to practice trading with virtual money, building confidence without any risk.\n\nWith customizable watchlists, powerful alerts, and a clean, professional interface, StockPro is the ultimate companion for navigating the financial markets. Download it and take control of your financial future.",
+    "size": 190,
+    "reviews": 54321,
+    "ratingAvg": 4.6,
+    "downloads": 2700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1400
+      },
+      {
+        "name": "2 star",
+        "count": 1100
+      },
+      {
+        "name": "3 star",
+        "count": 3400
+      },
+      {
+        "name": "4 star",
+        "count": 9800
+      },
+      {
+        "name": "5 star",
+        "count": 38621
+      }
+    ]
+  }
+]

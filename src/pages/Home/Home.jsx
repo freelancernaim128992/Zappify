@@ -1,9 +1,17 @@
-import React from 'react';
+import React, { Suspense } from 'react';
+import Banner from '../../components/Banner/Banner';
+import OurStatistics from '../../components/OurStatistics/OurStatistics';
+import TrendingApps from '../../components/TrendingApps/TrendingApps';
 
 const Home = () => {
+    const trendingAppsDataPromise = fetch("appsData.json").then(res => res.json());
     return (
         <div>
-            <h1>This is home page</h1>
+            <Banner />
+            <OurStatistics />
+            <Suspense fallback={<div>Loading...</div>}>
+                <TrendingApps trendingAppsDataPromise={trendingAppsDataPromise} />
+            </Suspense>
         </div>
     );
 };

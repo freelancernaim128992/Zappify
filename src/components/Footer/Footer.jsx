@@ -3,7 +3,7 @@ import logo from '../../assets/logo.png';
 
 const Footer = () => {
     return (
-        <div className='bg-[#001931] text-white mt-10'>
+        <div className='bg-[#001931] text-white'>
             <footer className="footer sm:footer-horizontal text-white p-10">
                 <nav>
                     <h6 className="footer-title">About</h6>
@@ -53,7 +53,7 @@ const Footer = () => {
                 <aside className="grid-flow-col items-center">
                     <img className='h-10' src={logo} alt="Logo" />
                     <p>
-                        <span class="text-gray-300 text-3xl font-bold">
+                        <span className="text-gray-300 text-3xl font-bold">
                                 Zappify
                             </span>
                         <br />

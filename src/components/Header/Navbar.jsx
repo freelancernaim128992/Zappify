@@ -30,7 +30,7 @@ const Navbar = () => {
                     <Link to="/" className="btn btn-ghost normal-case text-xl">
                         <div className='flex items-center gap-2 justify-between'>
                             <img className='h-10' src={logo} alt="Zappify Logo" />
-                            <span class="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
+                            <span className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
                                 Zappify
                             </span>
                         </div>
@@ -42,7 +42,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <Link to="https://github.com/freelancernaim128992" target="_blank" className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"><FaGithub /> Contribute</Link>
+                    <Link to="https://github.com/freelancernaim128992" target="_blank" className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white"><FaGithub /> Contribute</Link>
                 </div>
             </div>
         </div>
