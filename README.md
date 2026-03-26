@@ -1,5 +1,5 @@
 # Zappify
-# Live Link: 
+# Live Link: https://zappify-nine.vercel.app/
 
 ## App Name
 **Zappify** - A Modern App Marketplace Platform
