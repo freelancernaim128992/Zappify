@@ -3,23 +3,30 @@ import downloadIcon from "../../assets/icon-downloads.png";
 import starIcon from "../../assets/icon-ratings.png";
 import reviewIcon from "../../assets/icon-review.png";
 import { toast } from 'react-toastify';
+import { addToLS, getStoredApps } from '../../utility/addToLS';
 
 const AppInfo = ({ appData }) => {
-    const { image, title, companyName, size, reviews, ratingAvg, downloads } = appData;
-    const [isInstalled, setIsInstalled] = useState(false);
+    const { image, title, companyName, size, reviews, ratingAvg, downloads, id } = appData;
+    const [isInstalled, setIsInstalled] = useState(() => {
+        const storedApps = getStoredApps();
+        return storedApps.includes(id);
+    });
     const handleInstalled = () => {
+        addToLS(id);
         setIsInstalled(true);
         toast.success(`${title} has been installed successfully!`, {
             position: "top-right",
             autoClose: 3000
         });
     };
+    
     return (
         <div className="hero bg-base-200">
             <div className="hero-content flex-col lg:flex-row justify-between w-full gap-10">
                 <img
                     src={image}
                     className="h-64 rounded-lg shadow-lg p-8"
+                    alt={title}
                 />
                 <div className='w-full'>
                     <div>

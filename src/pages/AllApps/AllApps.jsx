@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { IoSearch } from "react-icons/io5";
 import AppCard from '../../components/AppCard/AppCard';
 import NoAppResult from '../NoAppResult/NoAppResult';
-import { ThreeDot } from 'react-loading-indicators';
+import LoadingSpinner from '../../components/LoadingSpinner/LoadingSpinner';
 
 const AllApps = () => {
     const [isLoading, setIsLoading] = useState(true);
@@ -10,12 +10,9 @@ const AllApps = () => {
     const [filteredApps, setFilteredApps] = useState([]);
     const [isSearching, setIsSearching] = useState(false);
     const [searchTerm, setSearchTerm] = useState('');
-    
-    // নিজে data fetch করো
     useEffect(() => {
         const fetchData = async () => {
             setIsLoading(true);
-            // 1 সেকেন্ড delay
             await new Promise(resolve => setTimeout(resolve, 1000));
             const response = await fetch('/appsData.json');
             const data = await response.json();
@@ -47,9 +44,7 @@ const AllApps = () => {
     
     if (isLoading) {
         return (
-            <div className="flex justify-center items-center h-screen">
-                <ThreeDot variant="bounce" color="#32cd32" size="medium" text="" textColor="" />
-            </div>
+            <LoadingSpinner />
         );
     }
     
@@ -76,9 +71,7 @@ const AllApps = () => {
             </div>
             
             {isSearching ? (
-                <div className="flex justify-center items-center py-20">
-                    <ThreeDot variant="bounce" color="#32cd32" size="medium" text="" textColor="" />
-                </div>
+                <LoadingSpinner />
             ) : filteredApps.length === 0 ? (
                 <NoAppResult />
             ) : (
