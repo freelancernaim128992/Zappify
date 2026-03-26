@@ -1,10 +1,19 @@
-import React from 'react';
+import React, { useState } from 'react';
 import downloadIcon from "../../assets/icon-downloads.png";
 import starIcon from "../../assets/icon-ratings.png";
 import reviewIcon from "../../assets/icon-review.png";
+import { toast } from 'react-toastify';
 
 const AppInfo = ({ appData }) => {
     const { image, title, companyName, size, reviews, ratingAvg, downloads } = appData;
+    const [isInstalled, setIsInstalled] = useState(false);
+    const handleInstalled = () => {
+        setIsInstalled(true);
+        toast.success(`${title} has been installed successfully!`, {
+            position: "top-right",
+            autoClose: 3000
+        });
+    };
     return (
         <div className="hero bg-base-200">
             <div className="hero-content flex-col lg:flex-row justify-between w-full gap-10">
@@ -40,7 +49,15 @@ const AppInfo = ({ appData }) => {
                         </div>
                     </div>
                     <div className='mt-1'>
-                        <button className="btn btn-success text-white">Install Now ({size} MB)</button>
+                        {isInstalled ? (
+                            <button className="btn btn-success text-white" disabled>
+                                Installed
+                            </button>
+                        ) : (
+                            <button onClick={handleInstalled} className="btn btn-success text-white">
+                                Install Now ({size} MB)
+                            </button>
+                        )}
                     </div>
                 </div>
             </div>

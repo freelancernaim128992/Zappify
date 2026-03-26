@@ -6,7 +6,7 @@ const AppCard = ({ appData }) => {
     const { title, image, downloads, ratingAvg } = appData;
     return (
         <Link to={`/appDetails/${appData.id}`}>
-            <div className="card bg-white">
+            <div className="card bg-white h-auto md:h-100">
                 <div className='p-3'>
                     <figure className='bg-base-300 rounded-lg p-10'>
                         <img

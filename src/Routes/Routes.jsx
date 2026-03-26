@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router";
+import { createBrowserRouter, data } from "react-router";
 import Root from "../pages/Root/Root";
 import ErrorPage from "../pages/ErrorPage/ErrorPage";
 import Home from "../pages/Home/Home";
@@ -23,8 +23,7 @@ export const router = createBrowserRouter([
       },
       {
         path: "/allApps",
-        Component: AllApps,
-        loader: () => fetch('/appsData.json')
+        Component: AllApps
       }
     ]
   },
