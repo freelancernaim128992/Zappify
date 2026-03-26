@@ -3,6 +3,7 @@ import Root from "../pages/Root/Root";
 import ErrorPage from "../pages/ErrorPage/ErrorPage";
 import Home from "../pages/Home/Home";
 import AllApps from "../pages/AllApps/AllApps";
+import AppDetails from "../pages/AppDetails/AppDetails";
 
 export const router = createBrowserRouter([
   {
@@ -16,9 +17,14 @@ export const router = createBrowserRouter([
         path: "/"
       },
       {
-        path: "allApps",
+        path: "/appDetails/:id",
+        Component: AppDetails,
+        loader: () => fetch('/appsData.json')
+      },
+      {
+        path: "/allApps",
         Component: AllApps,
-        loader: () => fetch('appsData.json')
+        loader: () => fetch('/appsData.json')
       }
     ]
   },

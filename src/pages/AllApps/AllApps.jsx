@@ -12,7 +12,7 @@ const AllApps = () => {
                 <p className='text-sm text-gray-500'>Explore All Apps on the Market developed by us. We code for Millions</p>
             </div>
             <div className='flex justify-between items-center my-10'>
-                <h3 className='text-lg font-bold'>(20) Apps Found</h3>
+                <h3 className='text-lg font-bold'>({allAppsData.length}) Apps Found</h3>
                 <div>
                     <label className="input">
                         <IoSearch className='text-gray-400 text-lg' />
