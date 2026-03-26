@@ -6,7 +6,7 @@ const ErrorPage = () => {
         <section>
             <div className='flex justify-center flex-col items-center gap-5 h-screen items-center'>
                 <div>
-                    <img className='h-64' src={errorImg} alt="Error 404" />
+                    <img className='h-30 md:h-64' src={errorImg} alt="Error 404" />
                 </div>
                 <div className='text-center'>
                     <h1 className='text-3xl font-bold'>Oops, page not found!</h1>

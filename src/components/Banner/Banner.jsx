@@ -18,7 +18,7 @@ const Banner = () => {
                 </div>
                 <img
                     src={bannerImg}
-                    className="h-80"
+                    className="h-44 md:h-80"
                 />
             </div>
         </div>

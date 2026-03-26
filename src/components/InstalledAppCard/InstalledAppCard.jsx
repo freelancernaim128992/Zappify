@@ -18,7 +18,7 @@ const InstalledAppCard = ({ installedAppData, handleUninstall}) => {
     };
     return (
         <div className='bg-white rounded-lg p-4'>
-            <div className='flex justify-between items-center'>
+            <div className='flex justify-between items-center flex-col md:flex-row gap-4'>
                 <div className='flex gap-5 items-center'>
                     <div className='bg-base-300 rounded-lg p-5'>
                         <img className='h-10' src={image} alt={title} />
